@@ -19,6 +19,7 @@ html {
   font-size: 16px;
   max-width: 428px;
   margin: auto;
+  background-color: rgb(222, 222, 222);
 }
 
 body {
@@ -83,11 +84,14 @@ nav a {
   font-size: 50px;
   font-weight: 300;
   text-transform: uppercase;
+  margin: 0;
+  padding: 50px 20px 20px 20px;
 }
 
 .div-whats-on {
   text-align: center;
   margin: 10px;
+  margin: 20px;
 }
 
 .div-whats-on p {
@@ -99,6 +103,12 @@ nav a {
 
 .div-whats-on img {
   border-bottom: solid 7px #d7a1fd;
+}
+
+.subtitle-img {
+  border: #000 solid 1px;
+  border-top: none;
+  padding: 20px;
 }
 
 h3 {
@@ -118,11 +128,16 @@ button {
   padding: 10px;
 }
 
+.white-part {
+  background-color: #fff;
+}
+
 .quote-container {
   background-color: #98fb00;
   padding: 20px;
   line-height: 28px;
   text-align: center;
+  margin: 60px 0;
 }
 
 .quote {
