@@ -126,10 +126,12 @@ button {
   font-weight: 800;
   text-transform: uppercase;
   padding: 10px;
+  border: none;
 }
 
 .white-part {
   background-color: #fff;
+  text-align: center;
 }
 
 .quote-container {
