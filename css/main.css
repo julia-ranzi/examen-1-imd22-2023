@@ -106,3 +106,36 @@ h3 {
   font-size: 30px;
   text-transform: uppercase;
 }
+
+button {
+  background-color: #000;
+  color: #d7a1fd;
+  font-family: "Nunito Sans", sans-serif;
+  text-align: center;
+  font-style: italic;
+  font-weight: 800;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+.quote-container {
+  background-color: #98fb00;
+  padding: 20px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.quote {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  letter-spacing: -1.5px;
+  text-transform: uppercase;
+}
+
+.author {
+  text-transform: uppercase;
+  font-family: "Noto Serif", serif;
+  font-size: 15px;
+  margin-top: 10px;
+}
