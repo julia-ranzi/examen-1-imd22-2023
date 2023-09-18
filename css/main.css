@@ -75,3 +75,34 @@ nav a {
   text-transform: uppercase;
   font-family: "Noto Serif", serif;
 }
+
+.whats {
+  color: #000;
+  text-align: center;
+  font-family: "Noto Serif", serif;
+  font-size: 50px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.div-whats-on {
+  text-align: center;
+  margin: 10px;
+}
+
+.div-whats-on p {
+  color: #000;
+  font-size: 15px;
+  font-family: "Noto Serif", serif;
+  font-weight: 300;
+}
+
+.div-whats-on img {
+  border-bottom: solid 7px #d7a1fd;
+}
+
+h3 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+}
