@@ -82,7 +82,7 @@ nav a {
   font-weight: 300;
   text-transform: uppercase;
   margin: 0;
-  padding: 50px 20px 20px 20px;
+  padding: 50px 20px 10px 20px;
 }
 
 .div-whats-on {
@@ -169,12 +169,13 @@ button {
 
 .div-whats-new {
   text-align: center;
-  margin: 5px;
+  margin: 10px 10px 10px 5px;
 }
 
 .div-whats-new img {
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
+  max-width: max-content;
 }
 
 .div-whats-new p {
@@ -202,7 +203,7 @@ button {
 
 .opportunities-title {
   background-color: #d7a1fd;
-  padding: 20px;
+  padding: 15px;
   text-align: center;
   text-align: center;
   font-family: "Nunito Sans", sans-serif;
@@ -214,7 +215,7 @@ button {
 .opportunity {
   background-color: #98fb00;
   border: #000 solid 1px;
-  padding: 20px;
+  padding: 20px 10px;
   font-family: "Nunito Sans", sans-serif;
   font-size: 20px;
   font-style: italic;
@@ -227,7 +228,8 @@ button {
 .opportunities-container {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 50px;
+  background-color: #fff;
+  padding-bottom: 50px;
 }
 
 footer {
