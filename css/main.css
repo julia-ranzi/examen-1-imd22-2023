@@ -261,6 +261,10 @@ footer h2 {
   font-weight: 300;
 }
 
+.info a {
+  text-decoration: none;
+}
+
 .info-title {
   font-family: "Nunito Sans", sans-serif;
   text-transform: uppercase;
