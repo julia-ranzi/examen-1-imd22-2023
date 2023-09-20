@@ -211,13 +211,6 @@ button {
   letter-spacing: -2.5px;
 }
 
-.opportunities-container {
-  background-color: #fff;
-  display: flex;
-  flex-wrap: wrap;
-  padding-bottom: 50px;
-}
-
 .opportunity {
   background-color: #98fb00;
   border: #000 solid 1px;
@@ -228,6 +221,13 @@ button {
   line-height: 24px;
   text-transform: uppercase;
   letter-spacing: -1px;
+  max-width: 50%;
+}
+
+.opportunities-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
 }
 
 footer {
